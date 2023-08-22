@@ -1,0 +1,68 @@
+[
+  {
+    "image": "/assets/images/pic08.jpg",
+    "youtubeEmbed": "https://www.youtube.com/embed/9MP37nz8HZA",
+    "title": "Puyo Puyo~n",
+    "caption": "<--- Change this image. Bro is sitting. Small description about the project, your accomplishments and overall challenges you face.",
+    "buttonText": "Learn more",
+    "buttonLink": "https://www.precisemuseum.com/post/697840867760832512/puyo-puyo-n-is-now-fully-playable-in-english-with"
+  },
+  {
+    "image": "/assets/images/pic09.jpg",
+    "youtubeEmbed": "https://www.youtube.com/embed/V8U-QBZbjb4",
+    "title": "Puyo Puyo Chronicle",
+    "caption": "Small description about the project, your accomplishments and overall challenges you faced. Change this image. laptop looking chill. ----->",
+    "buttonText": "Learn more",
+    "buttonLink": "https://www.precisemuseum.com/post/667037075700400128/the-english-translation-patch-for-puyo-puyo"
+  },
+  {
+    "image": "/assets/images/pic08.jpg",
+    "youtubeEmbed": "https://www.youtube.com/embed/rojYTaHFFnY",
+    "title": "Let's Head Out, On We Go! Puyo Puyo!!!",
+    "caption": "<--- Change this image. Bro is sitting. Small description about the project, your accomplishments and overall challenges you face.",
+    "buttonText": "Learn more",
+    "buttonLink": "https://www.precisemuseum.com/post/674937451428577280/heres-the-full-translation-for-the-the-opening"
+  },
+  {
+    "image": "/assets/images/pic09.jpg",
+    "youtubeEmbed": "https://www.youtube.com/embed/SHosJ1QkqwM",
+    "title": "Extracurricular Lesson at Primp Magic School — Puyo Puyo Drama CD Vol 2. Track 1",
+    "caption": "Small description about the project, your accomplishments and overall challenges you faced. Change this image. laptop looking chill. ----->",
+    "buttonText": "Learn more",
+    "buttonLink": "https://www.precisemuseum.com/post/679093083926872064/our-translation-of-the-audio-drama"
+  },
+  {
+    "image": "/assets/images/pic08.jpg",
+    "youtubeEmbed": null,
+    "title": "No Embed example",
+    "caption": "No Youtube embed, no problem, put up a picture of it and link to it instead.",
+    "buttonText": "Totally a link to a project without a Youtube Embed",
+    "buttonLink": "https://www.precisemuseum.com/post/679093083926872064/our-translation-of-the-audio-drama"
+  },
+  {
+    "image": "/assets/images/pic08.jpg",
+    "youtubeEmbed": "https://www.youtube.com/embed/SHosJ1QkqwM",
+    "title": "No Button Example",
+    "caption": "Both button text and link need to be set to be shown.",
+    "buttonText": null,
+    "buttonLink": "https://www.precisemuseum.com/post/679093083926872064/our-translation-of-the-audio-drama"
+  },
+  {
+    "image": null,
+    "youtubeEmbed": null,
+    "title": "Oops, don't have an image or video!",
+    "caption": "Probably not the best, but can be used for other things, like go back. Define target \"_self\" if you want to prevent a new window.",
+    "buttonText": "Back to Videos",
+    "target": "_self",
+    "buttonLink": "/videos.html"
+  },
+  {
+    "image": null,
+    "youtubeEmbed": null,
+    "title": null,
+    "caption": null,
+    "buttonText": null,
+    "target": null,
+    "buttonLink": null
+  }
+]
