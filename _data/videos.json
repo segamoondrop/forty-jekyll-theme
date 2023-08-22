@@ -1,14 +1,20 @@
 [
   {
-    "title": "Puyo Puyo~n (Puyo Puyo 4) Dreamcast - English Translation | Release Trailer",
-    "link": "/videos/PuyoTrailer",
+    "title": "Precise Museum",
+    "link": "/videos/PreciseMuseum",
     "thumbnail": "/assets/images/puyonthumbnail.png",
-    "description": "Puyo description"
+    "description": "Videos for a Puyo Puyo fan-translation group"
   },
   {
     "title": "The Mind Weaves The Webs We Need",
-    "link": "/videos/MindsWeWeave",
+    "link": "/videos/TheMindWeavesTheWebWeNeed",
     "thumbnail": "/assets/images/mindsweweave.png",
     "description": "The Mind Weaves The Webs We Need description"
+  },
+  {
+    "title": "Khmer Voices",
+    "link": "/videos/KhmerVoices",
+    "thumbnail": "/assets/images/khmervoices.png",
+    "description": "errrm i gotta think about this"
   }
 ]
