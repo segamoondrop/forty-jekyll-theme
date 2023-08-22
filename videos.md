@@ -8,7 +8,7 @@ show_tile: true
 ---
 <div class="tiles">
   {% for video in site.data.videos %}
-    <article style="background-image:url({{video.thumbnail}};)">
+    <article style="background-image:url({{video.thumbnail}})">
       <span class='image' style='display:none;'>
         <img src="{{video.thumbnail}}">
       </span>
