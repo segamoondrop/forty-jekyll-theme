@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "Hi, my name's Nico!"
+landing-title: "Nicholas Marinello"
 description: 'Check out my portfolio website!'
 image: null
 author: Nicholas Marinello
