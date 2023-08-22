@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Minds We Weave Documentary
+title: The Mind Weaves The Webs We Need
 description: Documentary I collaborated in.
 show_tile: false
 link: https://www.youtube.com/embed/D1Qt1CRkO1Q
