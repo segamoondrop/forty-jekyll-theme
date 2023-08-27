@@ -2,7 +2,7 @@
 layout: page
 title: Games
 description: 'Featuring games'
-image: '/assets/images/DJBunnyTitleScreen.png'
+image: '/assets/images/DJBunnyTitleScreenCentered.png'
 nav-menu: true
 show_tile: true
 ---

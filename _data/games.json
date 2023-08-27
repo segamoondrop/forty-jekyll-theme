@@ -2,13 +2,13 @@
   {
     "title": "DJ Usachi",
     "link": "/videos/TheMindWeaves",
-    "thumbnail": "/assets/images/DJ_Bunny_Icon.png",
-    "description": "Platformer"
+    "thumbnail": "/assets/images/DJ_Usachi.png",
+    "description": "A PSX Styled 3D Platformer with a City Night aesthetic"
   },
   {
     "title": "Gizmos Gambit",
     "link": "/videos/PreciseMuseum",
     "thumbnail": "/assets/images/gizmos_gambit.png",
-    "description": "A top down shootemup"
+    "description": "A top-down shoot'em up using your past lives as shields"
   }
 ]

@@ -2,7 +2,7 @@
 title: Moondrop
 subtitle: by Nico
 email: audeonico443@gmail.com
-description: Video editor, graphic designer and brand ambassador
+description: Brand ambassador, video editor, and graphic designer
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -19,13 +19,13 @@ custom-pages:
   -
     title: Videos
     url: videos
-    image: assets/images/puyonthumbnail.png
-    description: Featuring trailers, documentaries and more!
+    image: assets/images/mindsweweave.png
+    description: Featuring trailers, documentaries and more
   -
     title: Games
     url: games
-    image: /assets/images/DJ_Usachi.png
-    description: Featuring Games
+    image: /assets/images/DJBunnyTitleScreenCentered.png
+    description: Featuring game projects
 tiles-count: 6
 
 # social settings (key must match name of font awesome icon)

@@ -2,7 +2,7 @@
 layout: page
 title: Videos
 description: 'Featuring trailers, documentaries and more!'
-image: 'assets/images/puyonthumbnail.png'
+image: 'assets/images/mindsweweave.png'
 nav-menu: true
 show_tile: true
 ---
