@@ -14,7 +14,18 @@ country:
 phone:
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: custom # accepts "posts" or "pages" or "custom"
+custom-pages:
+  -
+    title: Videos
+    url: videos
+    image: assets/images/puyonthumbnail.png
+    description: Featuring trailers, documentaries and more!
+  -
+    title: Games
+    url: games
+    image: /assets/images/DJ_Usachi.png
+    description: Featuring Games
 tiles-count: 6
 
 # social settings (key must match name of font awesome icon)
