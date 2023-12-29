@@ -17,9 +17,17 @@ link: https://www.youtube.com/embed/dbb-ndFlCkA
 		</header>
 
 <h2 id="content">Design</h2>
-<p>The first step was to think of the main character. After brainstorming many platformer mascot ideas, I settled on a DJ Bunny and began designing the character.</p>
+<p>From the start, I knew I had wanted to create a mascot platformer. So the first step was to design the main character. After brainstorming many ideas, I settled on a DJ Bunny and began drawing. Below you can find some of the alternate designs before settling on DJ Usachi herself!</p>
 <div class="row">
 
-<h2 id="content">Modeling</h2>
-<p>I began to quickly research Blender and found out how to animate and implement animations in-game within 3 days.</p>
+<h2 id="content">Modeling & Animation</h2>
+<p>Once the character was designed, it was time to make it a functional model. I began to quickly research Blender and found out how to animate and implement animations in-game within 3 days.</p>
+<div class="row">
+
+<h2 id="content">Unity & Coding</h2>
+<p>Unity itself was actually quite simple to learn! I had implemented particle effects, learned how to implement shaders and got familiar with Unity engine as a whole. Then came the difficult part for me: coding. I had used a YouTube tutorial for the games main physics and control to get a hang of Visual Code Studio. </p>
+<div class="row">
+
+<h2 id="content">Results</h2>
+<p>With all of that together, the short game demo was complete! You can check out a short gameplay demo below. Progress on the game has stopped for now, but I would love to pick it up in the future.</p>
 <div class="row">

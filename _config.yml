@@ -26,6 +26,11 @@ custom-pages:
     url: games
     image: /assets/images/DJBunnyTitleScreenCentered.png
     description: Featuring game projects
+      -
+    title: Image Editing and Graphic Editing
+    url: graphics
+    image: /assets/images/DJBunnyTitleScreenCentered.png
+    description: Featuring graphic design goodness
 tiles-count: 6
 
 # social settings (key must match name of font awesome icon)
