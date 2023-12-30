@@ -23,8 +23,8 @@ link: https://www.youtube.com/embed/dbb-ndFlCkA
         <p>Unity itself was actually quite simple to learn! I had implemented particle effects, learned how to implement shaders and got familiar with Unity engine as a whole. Then came the difficult part for me: coding. I had used a YouTube tutorial for the games main physics and control to get a hang of Visual Code Studio. </p>
         <div class="box alt">
             <div class="row uniform">
-                <div class="4u"><span class="image fit"><img src="{% link assets/images/games/djusachi/UnityUsachi.PNG %}" alt="" /></span></div>
-                <div class="4u"><span class="image fit"><img src="{% link assets/images/games/djusachi/UnityUsachi_2.PNG %}" alt="" /></span></div>
+                <div class="4u"><span class="image fit"><img src="{% link assets/images/games/DJUsachi/UnityUsachi.png %}" alt="" /></span></div>
+                <div class="4u"><span class="image fit"><img src="{% link assets/images/games/DJUsachi/UnityUsachi_2.png %}" alt="" /></span></div>
             </div>
         </div>
         <h2 id="results">Results</h2>
