@@ -8,13 +8,13 @@
   {
     "title": "The Mind Weaves The Webs We Need",
     "link": "/videos/TheMindWeaves",
-    "thumbnail": "assets/images/videos/mindsweweave.png",
+    "thumbnail": "/assets/images/videos/mindsweweave.png",
     "description": "An Experimental & New Media Photography Documentary"
   },
   {
     "title": "Khmer Voices",
     "link": "/videos/KhmerVoices",
-    "thumbnail": "assets/images/videos/khmervoices.png",
+    "thumbnail": "/assets/images/videos/khmervoices.png",
     "description": "A project dedicated to sharing stories of the Cambodian Community's struggles of survival and immigration"
   }
 ]
