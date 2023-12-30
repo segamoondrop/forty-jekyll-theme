@@ -2,7 +2,7 @@
 layout: landing
 title: Gizmos Gambit
 description: Credits&#58; UI Design/QA Tester<br />A shoot-em-up featuring a cat named Gizmo with 9 lives. Use your past lives as shields and make it to the end!<br />This game served as the 2022 GameDev.tv submission with the theme "Death is only the beginning."
-image: assets/images/gizmos_gambit.png
+image: assets/images/games/gizmosgambit/gizmos_gambit.png
 show_tile: false
 link: https://www.youtube.com/embed/dbb-ndFlCkA
 ---

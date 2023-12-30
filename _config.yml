@@ -24,12 +24,12 @@ custom-pages:
   -
     title: Image Editing and Graphic Editing
     url: graphics
-    image: /assets/images/games/DJUsachi/DJBunnyTitleScreenCentered.png
+    image: /assets/images/games/djusachi/DJBunnyTitleScreenCentered.png
     description: Featuring graphic design goodness
   -
     title: Games
     url: games
-    image: /assets/images/games/DJUsachi/DJBunnyTitleScreenCentered.png
+    image: /assets/images/games/djusachi/DJBunnyTitleScreenCentered.png
     description: Featuring game projects
 
 tiles-count: 6

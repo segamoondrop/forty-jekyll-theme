@@ -2,13 +2,13 @@
   {
     "title": "DJ Usachi",
     "link": "/games/DJUsachi",
-    "thumbnail": "/assets/images/games/DJUsachi/DJ_Usachi.png",
+    "thumbnail": "/assets/images/games/djusachi/DJ_Usachi.png",
     "description": "A PSX Styled 3D Platformer with a City Night aesthetic"
   },
   {
     "title": "Gizmos Gambit",
     "link": "/games/GizmosGambit",
-    "thumbnail": "/assets/images/games/GizmosGambit/gizmos_gambit.png",
+    "thumbnail": "/assets/images/games/gizmosgambit/gizmos_gambit.png",
     "description": "A top-down shoot'em up using your past lives as shields"
   }
 ]

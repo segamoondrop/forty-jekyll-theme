@@ -2,7 +2,7 @@
 layout: landing
 title: Precise Museum Graphic Editing
 description: weep womp
-image: assets/images/games/GizmosGambit/gizmos_gambit.png
+image: assets/images/games/gizmosgambit/gizmos_gambit.png
 show_tile: false
 link: https://www.youtube.com/embed/dbb-ndFlCkA
 ---
