@@ -2,7 +2,7 @@
 layout: page
 title: Image Editing and Graphic Design
 description: 'Featuring graphic design goodness'
-image: 'assets/images/mindsweweave.png'
+image: 'assets/images/puyonthumbnail.png'
 nav-menu: true
 show_tile: true
 ---

@@ -19,17 +19,17 @@ custom-pages:
   -
     title: Videos
     url: videos
-    image: assets/images/mindsweweave.png
+    image: assets/images/videos/mindsweweave.png
     description: Featuring trailers, documentaries and more
   -
     title: Image Editing and Graphic Editing
     url: graphics
-    image: /assets/images/DJBunnyTitleScreenCentered.png
+    image: /assets/images/games/DJUsachi/DJBunnyTitleScreenCentered.png
     description: Featuring graphic design goodness
   -
     title: Games
     url: games
-    image: /assets/images/DJBunnyTitleScreenCentered.png
+    image: /assets/images/games/DJUsachi/DJBunnyTitleScreenCentered.png
     description: Featuring game projects
 
 tiles-count: 6
