@@ -2,7 +2,7 @@
 layout: landing
 title: DJ Usachi
 description: A PSX Styled 3D Platformer with a City Night aesthetic. Help Usachi try to collect all of her missing vinyls!
-image: assets/images/DJBunnyTitleScreen.png
+image: assets/images/games/djusachi/DJBunnyTitleScreen.png
 show_tile: false
 link: https://www.youtube.com/embed/dbb-ndFlCkA
 ---
