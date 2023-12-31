@@ -1,0 +1,14 @@
+<!-- credit: https://codepen.io/Lubna/pen/MWapdjE -->
+<form class="gallery">
+{% assign index = 0 %}
+{% for img in images %}
+  <div class="gallery__item">
+    <input type="radio" id="{{img.name}}-{{index}}" {% if index == 0 %}checked{% endif %} name="gallery" class="gallery__selector"/>
+    <div class="gallery__img">
+      <img src="{{img.src}}" alt="{{img.alt}}"/>
+    </div>
+    <label for="{{img.name}}-{{index}}" class="gallery__thumb"><img src="{{img.src}}" alt="{{img.alt}}"/></label>
+  </div>
+{% assign index = index | plus:1 %}
+{% endfor %}
+</form>
