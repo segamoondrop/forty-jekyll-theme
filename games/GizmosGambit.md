@@ -5,6 +5,23 @@ description: Credits&#58; UI Design/QA Tester<br />A shoot-em-up featuring a cat
 image: assets/images/games/gizmosgambit/gizmos_gambit.png
 show_tile: false
 link: https://www.youtube.com/embed/46lLV84CdXY
+screenshots:
+    -
+        name: Screenshot 1 #Each name must be unique across collections.
+        src: /assets/images/games/gizmosgambit/gizmo_1.png
+        alt: Gizmos Gambit Screenshot 1
+    -
+        name: Screenshot 2
+        src: /assets/images/games/gizmosgambit/gizmo_2.png
+        alt: Gizmos Gambit Screenshot 2
+    -
+        name: Screenshot 3
+        src: /assets/images/games/gizmosgambit/gizmo_3.png
+        alt: Gizmos Gambit Screenshot 3
+    -
+        name: Screenshot 4
+        src: /assets/images/games/gizmosgambit/gizmo_4.png
+        alt: Gizmos Gambit Screenshot 4
 ---
 {% assign videos = site.data.gizmosGambit %}
 {%include videos.html %}
@@ -13,11 +30,8 @@ link: https://www.youtube.com/embed/46lLV84CdXY
 <section id="one">
 	<div class="inner">
 		<header class="major">
-		<div class="box alt">
-            <div class="row uniform">
-                <div class="4u"><span class="image fit"><img src="{% link assets/images/games/gizmosgambit/gizmo_1.png %}" alt="" /></span></div>
-                <div class="4u"><span class="image fit"><img src="{% link assets/images/games/gizmosgambit/gizmo_2.png %}" alt="" /></span></div>
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/games/gizmosgambit/gizmo_3.png %}" alt="" /></span></div>
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/games/gizmosgambit/gizmo_4.png %}" alt="" /></span></div>
-            </div>
-        </div>
+            <h1>Screenshots</h1>
+        </header>
+		    {% assign images = page.screenshots %}
+            {% include gallery.html %}
+

@@ -9,28 +9,28 @@ designs:
     -
         name: Design 1 #Each name must be unique across collections.
         src: /assets/images/games/djusachi/DJ_Bunny_1.png
-        alt: usachi test
+        alt: DJ Bunny 1
     -
         name: Design 2
         src: /assets/images/games/djusachi/DJ_Bunny_2.png
-        alt: usachi test
+        alt: DJ Bunny 2
     -
         name: Design 3
         src: /assets/images/games/djusachi/DJ_Bunny_3.png
-        alt: usachi test
+        alt: DJ Bunny 3
     -
         name: Design 4
         src: /assets/images/games/djusachi/DJ_Usachi_Original_Drawing.png
-        alt: usachi test
+        alt: DJ Usachi Original Drawing
 coding:
     -
         name: Coding 1 #if this were named Design 1 like above, it will not work.
         src: /assets/images/games/djusachi/UnityUsachi.png
-        alt: usachi test
+        alt: DJ Usachi Unity Screenshot 1
     -
         name: Coding 2
         src: /assets/images/games/djusachi/UnityUsachi_2.png
-        alt: usachi test
+        alt: DJ Usachi Unity Screenshot 2
 ---
 {% assign videos = site.data.djUsachi %}
 {%include videos.html %}
