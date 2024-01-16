@@ -18,7 +18,7 @@ tiles-source: custom # accepts "posts" or "pages" or "custom"
 custom-pages:
   -
     title: QA Testing
-    url: qaTesting
+    url: qatesting
     image: /assets/images/games/gizmosgambit/gizmos_gambit.png
     description: Featuring my QA Testing experience
   -
