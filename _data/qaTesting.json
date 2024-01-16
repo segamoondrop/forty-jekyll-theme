@@ -1,9 +1,26 @@
 [
   {
     "image": null,
-    "youtubeEmbed": "https://www.youtube.com/embed/9MP37nz8HZA",
-    "title": null,
-    "caption": "Challenges and accomplishments",
-    "inner": true
+    "youtubeEmbed": "https://www.youtube.com/embed/46lLV84CdXY",
+    "title": "Gizmos Gambit",
+    "caption": "Credits: UI Design/QA Tester",
+    "buttonText": "Learn more",
+    "buttonLink": "https://somedumbfox.itch.io/gizmos-gambit"
+  },
+  {
+    "image": "/assets/images/SEGA_logo.svg",
+    "youtubeEmbed": null,
+    "title": "NDA SEGA Game",
+    "caption": "Currently Under NDA<br />Credits: Playtester",
+    "buttonText": "Coming Soon!",
+    "buttonLink": null
+  },
+  {
+    "image": "/assets/images/SEGA_logo.svg",
+    "youtubeEmbed": null,
+    "title": "NDA Sega Game",
+    "caption": "Currently Under NDA<br />Credits: Playtester",
+    "buttonText": "Coming Soon!",
+    "buttonLink": null
   }
 ]
