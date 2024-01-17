@@ -350,3 +350,7 @@
 	});
 
 })(jQuery);
+
+function changeImage(galleryName, imageSrc){
+	$(`#${galleryName}`).attr("src", imageSrc)
+}

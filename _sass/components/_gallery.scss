@@ -1,73 +1,45 @@
-//From https://codepen.io/Lubna/pen/MWapdjE
+.gallery{
+  display: grid;
+  grid-template-rows: 150px 150px 150px 150px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 10px;
+  width: 75%;
+  margin: auto;
 
-$max-img-width: 800px;
-$max-img-height: 700px;
-
-img {
-  max-width: 100%;
-  vertical-align: top;
-}
-
-.gallery {
-  display: flex;
-  margin: 10px auto;
-  max-width: $max-img-width;
-  position: relative;
-  padding-top: $max-img-height/$max-img-width * 100%;
-  box-sizing: border-box;
-  flex-wrap: wrap;
-  justify-content: center;
-  flex-direction: row;
-
-  @media screen and (min-width: $max-img-width) {
-    padding-top: $max-img-height;
-  }
-
-  &__img {
-    position: absolute;
-    width: 100%;
-    height: $max-img-height;
-    top: 0;
-    left: 0;
-    opacity: 0;
-    transition: opacity 0.3s ease-in-out;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    & img{
+  .img{
+    grid-row-start: 1;
+    grid-column-start: 1;
+    grid-row-end: 4;
+    grid-column-end: 5;
+    vertical-align:middle;
+    img{
       display: block;
+      height: 100%;
+      object-fit: contain;
+      margin: auto;
     }
   }
 
-  &__thumb {
-    padding-top: 6px;
-    margin: 6px;
-    display: block;
-  }
-
-  &__selector {
-    position: absolute;
-    opacity: 0;
-    visibility: hidden;
-
-    &:checked {
-      +.gallery__img {
-        opacity: 1;
-      }
-
-      ~.gallery__thumb>img {
-        box-shadow: 0 0 0 3px #0be2f6;
-        ;
-      }
+  .item{
+    cursor: pointer;
+    border: 2px solid transparent;
+    background-size: cover;
+    background-position: center;
+    &:hover{
+    border: 2px solid blue;
     }
   }
 
-  * {
-    box-sizing: border-box;
+  @include breakpoint(small){
+    width: 100%;
   }
 
-  >*{
-    flex-basis:20%;
+  @include breakpoint(xsmall){
+    .img{
+      img{
+        object-fit: cover;
+      }
+    }
   }
-
 }
+

@@ -44,6 +44,7 @@ coding:
         <h2 id="design">Design</h2>
         <p>From the start, I knew I had wanted to create a mascot platformer. So the first step was to design the main character. After brainstorming many ideas, I settled on a DJ Bunny and began drawing. Below you can find some of the alternate designs before settling on DJ Usachi herself!</p>
         {% assign images = page.designs %}
+        {% assign galleryName = "usachiDesigns"%}
         {% include gallery.html %}
         <h2 id="modeling">Modeling & Animation</h2>
         <!-- Use the span image left or right classes to put a single image down. -->
@@ -52,6 +53,7 @@ coding:
         <h2 id="coding" style="clear: left">Unity & Coding</h2>
         <p>Unity itself was actually quite simple to learn! I had implemented particle effects, learned how to implement shaders and got familiar with Unity engine as a whole. Then came the difficult part for me: coding. I had used a YouTube tutorial for the games main physics and control to get a hang of Visual Code Studio. </p>
         {% assign images = page.coding %}
+        {% assign galleryName = "usachiUnity"%}
         {% include gallery.html %}
         <h2 id="results">Results</h2>
         <p>With all of that together, the short game demo was complete! You can check out a short gameplay demo below. Progress on the game has stopped for now, but I would love to pick it up in the future.</p>

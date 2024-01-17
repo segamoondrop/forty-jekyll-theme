@@ -33,5 +33,6 @@ screenshots:
             <h1>Screenshots</h1>
         </header>
 		    {% assign images = page.screenshots %}
+            {% assign galleryName = "gizmoScreens"%}
             {% include gallery.html %}
 
