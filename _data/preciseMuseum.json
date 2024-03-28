@@ -30,39 +30,5 @@
     "caption": "Credits: Subtitler, Video Editor<br />A fan-made video translation of a Puyo Puyo Drama CD featuring the cast of Puyo Puyo Fever.",
     "buttonText": "Learn more",
     "buttonLink": "https://www.precisemuseum.com/post/679093083926872064/our-translation-of-the-audio-drama"
-  },
-  {
-    "image": "/assets/images/pic08.jpg",
-    "youtubeEmbed": null,
-    "title": "No Embed example",
-    "caption": "No Youtube embed, no problem, put up a picture of it and link to it instead.",
-    "buttonText": "Totally a link to a project without a Youtube Embed",
-    "buttonLink": "https://www.precisemuseum.com/post/679093083926872064/our-translation-of-the-audio-drama"
-  },
-  {
-    "image": "/assets/images/pic08.jpg",
-    "youtubeEmbed": "https://www.youtube.com/embed/SHosJ1QkqwM",
-    "title": "No Button Example",
-    "caption": "Both button text and link need to be set to be shown.",
-    "buttonText": null,
-    "buttonLink": "https://www.precisemuseum.com/post/679093083926872064/our-translation-of-the-audio-drama"
-  },
-  {
-    "image": null,
-    "youtubeEmbed": null,
-    "title": "Oops, don't have an image or video!",
-    "caption": "Probably not the best, but can be used for other things, like go back. Define target \"_self\" if you want to prevent a new window.",
-    "buttonText": "Back to Videos",
-    "target": "_self",
-    "buttonLink": "/videos.html"
-  },
-  {
-    "image": null,
-    "youtubeEmbed": null,
-    "title": null,
-    "caption": null,
-    "buttonText": null,
-    "target": null,
-    "buttonLink": null
   }
 ]
