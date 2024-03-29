@@ -5,5 +5,10 @@
     "title": null,
     "caption": null,
     "inner": true
+  },
+  {
+    "buttonText": "Back to Games",
+    "buttonLink": "/games.html",
+    "target": "_self"
   }
 ]

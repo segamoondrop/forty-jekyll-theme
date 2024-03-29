@@ -22,5 +22,10 @@
     "caption": "Credits: Playtester<br />Further information cannot be disclosed due to signed NDA.",
     "buttonText": "Coming Soon!",
     "buttonLink": null
+  },
+  {
+    "buttonText": "Back to Home",
+    "buttonLink": "/index.html",
+    "target": "_self"
   }
 ]
