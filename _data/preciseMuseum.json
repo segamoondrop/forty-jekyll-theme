@@ -3,7 +3,7 @@
     "image": "/assets/images/videos/PuyonShowcase.gif",
     "youtubeEmbed": "https://www.youtube.com/embed/9MP37nz8HZA",
     "title": "Puyo Puyo~n",
-    "caption": "Credits: Video Editor, Graphic Editor, Proofreader, Playtester<br />With the Precise Museum, we created a fan-made translation patch of the Dreamcast game Puyo Puyo~n. From the in-game menus, to VMU animations, and even to custom implemented dialogue boxes for the games' story mode; we've made the game completely playable for English-speaking audiences!<br />I wanna thank my mom<br />And my dad<br />and my sister for this!",
+    "caption": "Credits: Video Editor, Graphic Editor, Proofreader, Playtester<br />With the Precise Museum, we created a fan-made translation patch of the Dreamcast game Puyo Puyo~n. From the in-game menus, to VMU animations, and even to custom implemented dialogue boxes for the games' story mode; we've made the game completely playable for English-speaking audiences!",
     "buttonText": "Learn more",
     "buttonLink": "https://www.precisemuseum.com/post/697840867760832512/puyo-puyo-n-is-now-fully-playable-in-english-with"
   },
@@ -30,5 +30,9 @@
     "caption": "Credits: Subtitler, Video Editor<br />A fan-made video translation of a Puyo Puyo Drama CD featuring the cast of Puyo Puyo Fever.",
     "buttonText": "Learn more",
     "buttonLink": "https://www.precisemuseum.com/post/679093083926872064/our-translation-of-the-audio-drama"
+  },
+  {
+    "buttonText": "Back to Videos",
+    "buttonLink": "/videos.html"
   }
 ]
