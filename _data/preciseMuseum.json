@@ -33,6 +33,8 @@
   },
   {
     "buttonText": "Back to Videos",
-    "buttonLink": "/videos.html"
+    "buttonLink": "/videos.html",
+    "target": "_self",
+    "inner": true
   }
 ]
