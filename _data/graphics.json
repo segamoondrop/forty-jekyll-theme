@@ -16,5 +16,11 @@
     "link": "/graphics/Logos",
     "thumbnail": "/assets/images/logos/ENGNakoruru.png",
     "description": "Logo designs"
+  },
+  {
+    "title": "Mockup Promotional Splatoon Images",
+    "link": "/graphics/SplatoonMockups",
+    "thumbnail": "/assets/images/splatoon/ACBVNIKKIVPKVFF.png",
+    "description": "Mockup promotional images for the game Splatoon"
   }
 ]
