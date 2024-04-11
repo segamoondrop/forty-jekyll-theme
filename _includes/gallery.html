@@ -1,11 +1,10 @@
 <!-- credit: https://codepen.io/Lubna/pen/MWapdjE -->
 <div class="gallery">
-  <div class="img">
-    <img id="{{gallery.name}}" src="{{gallery.images[0].src}}" alt="{{images[0].alt}}"/>
+  <div class="img" id="{{gallery.name}}" style="background-image: url({{gallery.images[0].src}});">
   </div>
 {% assign index = 0 %}
 {% for img in gallery.images %}
-  <div class="item" style="background-image: url({{img.src}});" onpointerover="changeImage('{{gallery.name}}', '{{img.src}}')" ></div>
+  <div class="item" style="background-image: url({{img.src}});" onmousedown="changeImage('{{gallery.name}}', '{{img.src}}')" ></div>
 {% assign index = index | plus:1 %}
 {% endfor %}
 </div>
