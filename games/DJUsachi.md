@@ -32,7 +32,6 @@ coding:
 ---
 {% assign videos = site.data.djUsachi %}
 {%include videos.html %}
-
 <!-- One -->
 <section id="one">
     <div class="inner">
@@ -55,3 +54,7 @@ coding:
         <p>With all of that together, the short game demo was complete! You can check out a short gameplay demo below. Progress on the game has stopped for now, but I would love to pick it up in the future.</p>
     </div>
 <section>
+
+{% assign videos = site.data.djUsachiEnd %}
+{%include videos.html %}
+
