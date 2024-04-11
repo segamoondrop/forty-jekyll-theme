@@ -12,12 +12,12 @@
     grid-row-end: 4;
     grid-column-end: 5;
     vertical-align:middle;
-    img{
-      display: block;
-      height: 100%;
-      object-fit: contain;
-      margin: auto;
-    }
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
   }
 
   .item{
