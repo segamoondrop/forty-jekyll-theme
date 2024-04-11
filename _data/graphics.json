@@ -1,8 +1,20 @@
 [
   {
+    "title": "Social Media",
+    "link": "/graphics/SocialMedia",
+    "thumbnail": "/assets/images/socialmediagallery/jomammisbanner.png",
+    "description": "Social media banners, buttons & more"
+  },
+  {
     "title": "Precise Museum Graphic Editing",
     "link": "/graphics/PMGraphicEditing",
     "thumbnail": "/assets/images/puyonthumbnail.png",
     "description": "Graphics for a Puyo Puyo fan-translation group"
+  },
+  {
+    "title": "Logos",
+    "link": "/graphics/Logos",
+    "thumbnail": "/assets/images/logos/ENGNakoruru.png",
+    "description": "Logo designs"
   }
 ]

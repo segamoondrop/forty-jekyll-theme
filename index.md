@@ -8,4 +8,3 @@ author: Nicholas Marinello
 show_tile: false
 ---
 
-Hi guys! This is a description! 
