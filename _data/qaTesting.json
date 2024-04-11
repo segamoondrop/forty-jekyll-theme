@@ -5,7 +5,8 @@
     "title": "Gizmos Gambit",
     "caption": "Credits: UI Design/QA Tester<br />Through the use of Trello for management, Discord for communication and GitHub for the latest builds, I worked with my group for Gamedev.tv's Game Jam 2022 remotely to develop and QA test a top-down shoot-em-up game.",
     "buttonText": "Learn more",
-    "buttonLink": "https://somedumbfox.itch.io/gizmos-gambit"
+    "buttonLink": "https://somedumbfox.itch.io/gizmos-gambit",
+    "inner": true
   },
   {
     "image": "/assets/images/SEGA_logo.png",
@@ -26,6 +27,7 @@
   {
     "buttonText": "Back to Home",
     "buttonLink": "/index.html",
-    "target": "_self"
+    "target": "_self",
+    "inner": true
   }
 ]

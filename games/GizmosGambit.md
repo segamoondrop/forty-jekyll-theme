@@ -32,4 +32,9 @@ screenshots:
         </header>
 		    {% assign gallery = page.screenshots %}
             {% include gallery.html %}
+    </div>
+</section>
+
+{% assign videos = site.data.gizmosGambitEnd %}
+{%include videos.html %}
 

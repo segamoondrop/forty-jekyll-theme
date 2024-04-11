@@ -1,5 +1,6 @@
 
 <section id="two" class="spotlights">
+	{% assign num = 1 %}
 	{% for vid in videos %}
   {% if vid.inner != true%}
 	<section>
@@ -48,6 +49,8 @@
 				</ul>
 				{% endif %}
 			</div>
+			{% if vid.hr %} <hr/> {% endif %}
   {%endif%}
+	{% assign num = num | plus:1 %}
 	{% endfor %}
 </section>
