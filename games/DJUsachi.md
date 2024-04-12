@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: DJ Usachi
-description: A PSX Styled 3D Platformer with a City Night aesthetic. Help Usachi try to collect all of her missing vinyls!<br /><br />DJ Usachi is a solo-developed gameplay demo made under 10 days for a Game Design class project. Music is not my own.
+description: <span>A PSX Styled 3D Platformer with a City Night aesthetic. Help Usachi try to collect all of her missing vinyls!<br /><br />DJ Usachi is a solo-developed gameplay demo made under 10 days for a Game Design class project. Music is not my own.<br /><br /><a target=_blank href='https://sega-moondrop.itch.io/dj-usachi'>https://sega-moondrop.itch.io/dj-usachi</a></span>
 image: assets/images/games/djusachi/DJBunnyTitleScreen.png
 show_tile: false
 link: https://www.youtube.com/embed/bUGgRmr74hg?si=d0mkLMoMe-aajaKD

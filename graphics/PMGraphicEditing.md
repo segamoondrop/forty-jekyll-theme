@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Precise Museum Graphic Editing
-description: These graphics are recreated by eye for the unofficial translation patches of Puyo Puyo games. Some images show a work in-progress build, edits to dialogue/text have not been changed.<br/><br/>Precise Museum is a fan translation team for Puyo Puyo media; including manga, drama CD's, and the games themselves.<br/>Please support the official releases!<br \><br \>https://www.precisemuseum.com/
+description: <span>These graphics are recreated by eye for the unofficial translation patches of Puyo Puyo games. Some images show a work in-progress build, edits to dialogue/text have not been changed.<br/><br/>Precise Museum is a fan translation team for Puyo Puyo media; including manga, drama CD's, and the games themselves.<br/>Please support the official releases!<br \><br \><a target=_blank href='https://www.precisemuseum.com/'>https://www.precisemuseum.com/</a></span>
 image: assets/images/games/gizmosgambit/gizmos_gambit.png
 show_tile: false
 link: https://www.youtube.com/embed/dbb-ndFlCkA
