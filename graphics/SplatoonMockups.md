@@ -9,46 +9,46 @@ splatoon:
   images:
     - 
       src: /assets/images/splatoon/ACBVNIKKIVPKVFF.png
-      alt: Nakoruru JP to ENG Comparison
+      alt: Nintendo 3DS Icon Splatfest Banner
     - 
       src: /assets/images/splatoon/Emote_Announcement.png
-      alt: JP Nakoruru Title Screen
+      alt: A promotional announcement image used to show off new Splatoon Squid emotes based on the 3DS Icons
     - 
       src: /assets/images/splatoon/Emotes.png
-      alt: ENG Nakoruru Title Screen
+      alt: A collage of reference images and emotes to show the progress made in Adobe Illustrator
     - 
       src: /assets/images/splatoon/ACBVNIKKIBANNER.png
-      alt: ENG Nakoruru Logo
+      alt: Arcade Bunny VS Nikki Splatfest Banner
     - 
       src: /assets/images/splatoon/NIKKIVPFBANNER.png
-      alt: ENG Nakoruru Logo
+      alt: Nikki VS Parakeet Splatfest Banner
     - 
       src: /assets/images/splatoon/PKVFFBANNER.png
-      alt: ENG Nakoruru Logo
+      alt: Parakeet VS Flipnote Frog Splatfest Banner
     - 
       src: /assets/images/splatoon/ACBVNIKKIWIN.png
-      alt: ENG Nakoruru Logo
+      alt: Arcade Bunny VS Nikki Splatfest Results
     - 
       src: /assets/images/splatoon/NIKKIVPKWIN.png
-      alt: ENG Nakoruru Logo
+      alt: Nikki VS Parakeet Splatfest Results
     - 
       src: /assets/images/splatoon/PKVFFWIN.png
-      alt: ENG Nakoruru Logo
+      alt: Parakeet VS Flipnote Frog Splatfest Results
     - 
       src: /assets/images/splatoon/SLVPGBANNER.png
-      alt: ENG Nakoruru Logo
+      alt: Slenderman VS Purple Guy Splatfest Banner
     - 
       src: /assets/images/splatoon/PSVHCBANNER.png
-      alt: ENG Nakoruru Logo
+      alt: Pumpkin Spice VS Hot Chocolate Splatfest Banner
     - 
       src: /assets/images/splatoon/PSVHCWIN.png
-      alt: ENG Nakoruru Logo
+      alt: Pumpkin Spice VS Hot Chocolate Splatfest Results
     - 
       src: /assets/images/splatoon/BKVBYBANNER.png
-      alt: ENG Nakoruru Logo
+      alt: Bakugan VS Beyblade Splatfest Banner
     - 
       src: /assets/images/splatoon/BKVBYWIN.png
-      alt: ENG Nakoruru Logo
+      alt: Bakugan VS Beyblade Splatfest Results
 ---
 {% assign videos = site.data.splatoon %}
 {%include videos.html %}
