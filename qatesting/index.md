@@ -5,6 +5,7 @@ description: Passionate about gaming and dedicated to ensuring a flawless player
 image: assets/images/games/gizmosgambit/gizmos_gambit.png
 show_tile: false
 link: https://www.youtube.com/embed/dbb-ndFlCkA
+nav-menu: true
 ---
 {% assign videos = site.data.qaTesting %}
 {%include videos.html %}

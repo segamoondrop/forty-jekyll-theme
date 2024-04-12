@@ -351,6 +351,7 @@
 
 })(jQuery);
 
-function changeImage(galleryName, imageSrc){
+function changeImage(galleryName, imageSrc, imageAlt = ""){
 	$(`#${galleryName}`).attr("style", `background-image: url(${imageSrc});`)
+	$(`#${galleryName}-alt`).html(imageAlt)
 }
