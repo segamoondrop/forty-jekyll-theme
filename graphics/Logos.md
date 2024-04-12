@@ -9,16 +9,16 @@ logos:
   images:
     - 
       src: /assets/images/logos/nakorurucomparison.png
-      alt: Nakoruru JP to ENG Comparison
+      alt: Nakoruru Original JP to Unofficial ENG Comparison
     - 
       src: /assets/images/logos/JPNakoruru.png
-      alt: JP Nakoruru Title Screen
+      alt: JP Nakoruru Title Screen (Not my own)
     - 
       src: /assets/images/logos/ENGNakoruru.png
-      alt: ENG Nakoruru Title Screen
+      alt: Unofficial ENG Nakoruru Title Screen
     - 
       src: /assets/images/logos/nakoruruglow.png
-      alt: ENG Nakoruru Logo
+      alt: Unofficial ENG Nakoruru Logo
     - 
       src: /assets/images/logos/wth2022logo.png
       alt: Logo for an event called Winner Takes Halal 2022 for the game club known as Halal Gaming
