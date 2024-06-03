@@ -1,5 +1,13 @@
 [
   {
+    "image": "/assets/images/sonicrumble.jpg",
+    "youtubeEmbed": null,
+    "title": "SEGA - Sonic Rumble",
+    "caption": "Credits: Playtester<br />Through SEGA's SEGA Insights program, I playtested various game features, identifying and documenting bugs, glitches, and inconsistencies for a project to ensure a smooth, fun experience for the player. I collaborated with other team members to consolidate feedback for the QA/focus group facilitator, and pointed out both flaws and strengths of the content given to allow a nuanced discussion of the material.",
+    "buttonText": "Learn more",
+    "buttonLink": "https://sonicrumble.sega.com/"
+  },
+  {
     "image": null,
     "youtubeEmbed": "https://www.youtube.com/embed/46lLV84CdXY",
     "title": "Gizmos Gambit",
@@ -7,14 +15,6 @@
     "buttonText": "Learn more",
     "buttonLink": "https://somedumbfox.itch.io/gizmos-gambit",
     "inner": true
-  },
-  {
-    "image": "/assets/images/SEGA_logo.png",
-    "youtubeEmbed": null,
-    "title": "SEGA - Title Not Announced",
-    "caption": "Credits: Playtester<br />Further information cannot be disclosed due to signed NDA.",
-    "buttonText": "Coming Soon!",
-    "buttonLink": null
   },
   {
     "image": "/assets/images/SEGA_logo.png",
