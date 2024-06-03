@@ -1,7 +1,7 @@
 [
   {
     "image": "/assets/images/sonicrumble.jpg",
-    "youtubeEmbed": null,
+    "youtubeEmbed": "https://www.youtube.com/embed/Em6-SjjaYQE",
     "title": "SEGA - Sonic Rumble",
     "caption": "Credits: Playtester<br />Through SEGA's SEGA Insights program, I playtested various game features, identifying and documenting bugs, glitches, and inconsistencies for a project to ensure a smooth, fun experience for the player. I collaborated with other team members to consolidate feedback for the QA/focus group facilitator, and pointed out both flaws and strengths of the content given to allow a nuanced discussion of the material.",
     "buttonText": "Learn more",
