@@ -1,5 +1,11 @@
 [
   {
+    "title": "Content Creation",
+    "link": "/videos/ContentCreation",
+    "thumbnail": "/assets/images/videos/SAGE22.png",
+    "description": "Videos for created for YouTube & Twitch"
+  },
+  {
     "title": "Precise Museum",
     "link": "/videos/PreciseMuseum",
     "thumbnail": "/assets/images/puyonthumbnail.png",
