@@ -1,24 +1,11 @@
 <!-- credit: https://codepen.io/Lubna/pen/MWapdjE -->
 <div class="gallery">
-  {% assign index = 0 %}
   <div class="scroll-box">
     {% for img in gallery.images %}
     <a data-fslightbox="{{gallery.name}}" data-caption="{{img.alt}}" href="{{img.src}}" style = "display: contents;">
       <div class="item" style="background-image: url({{img.src}});">
       </div>
     </a>
-    {% assign index = index | plus:1 %}
-    {% endfor %}
-  </div>
-</div>
-
-<div class="box alt">
-  <div class="row ">
-    {% for img in gallery.images %}
-    {% assign mod = forloop.index | modulo: 4 %}
-    <div class="3u{% if mod == 0 and forloop.index != 0 %}${% endif %}">
-
-    </div>
     {% endfor %}
   </div>
 </div>
