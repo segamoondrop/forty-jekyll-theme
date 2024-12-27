@@ -1,6 +1,6 @@
 <!-- credit: https://codepen.io/Lubna/pen/MWapdjE -->
 <div class="gallery">
-  <div class="scroll-box">
+  <div class="item-box">
     {% for img in gallery.images %}
     <a data-fslightbox="{{gallery.name}}" data-caption="{{img.alt}}" href="{{img.src}}" style = "display: contents;">
       <div class="item" style="background-image: url({{img.src}});">
