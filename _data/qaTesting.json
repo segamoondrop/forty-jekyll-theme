@@ -1,6 +1,7 @@
 [
   {
     "image": "/assets/images/MLBTheShow251x1.jpg",
+    "thumbnail": "/assets/images/thumb_theshow.jpg" ,
     "youtubeEmbed": "https://www.youtube.com/embed/DdbcF6TCAXM",
     "title": "PlayStation Studios - MLB The Show 25",
     "caption": "Credits: Game Test Analyst<br />At Sony Interactive Entertainment, I conducted comprehensive testing on this title, identifying and documenting a variety of bugs with from gameplay, UI, performance, and animation bugs. I collaborated with developers and designers to provide feedback on mechanics and usability of the game. As well as having developed automated test scripts using in-house tools and Java to streamline game testing efficiency. This especially came in handy for testing new content updates and patches to ensure it had a smooth integration with the existing game. All of this to contribute a smooth user experience to the players.",
@@ -9,6 +10,7 @@
   },
   {
     "image": "/assets/images/sonicrumble.jpg",
+    "thumbnail": "/assets/images/thumb_rumble.jpg" ,
     "youtubeEmbed": "https://www.youtube.com/embed/Em6-SjjaYQE",
     "title": "SEGA - Sonic Rumble",
     "caption": "Credits: Playtester<br />Through SEGA's SEGA Insights program, I playtested various game features, identifying and documenting bugs, glitches, and inconsistencies for a project to ensure a smooth, fun experience for the player. I collaborated with other team members to consolidate feedback for the QA/focus group facilitator, and pointed out both flaws and strengths of the content given to allow a nuanced discussion of the material.",
@@ -18,6 +20,7 @@
   {
     "image": null,
     "youtubeEmbed": "https://www.youtube.com/embed/46lLV84CdXY",
+    "thumbnail": "/assets/images/thumb_gizmo.jpg" ,
     "title": "Gizmos Gambit",
     "caption": "Credits: UI Design/QA Tester<br />Through the use of Trello for management, Discord for communication and GitHub for the latest builds, I worked with my group for Gamedev.tv's Game Jam 2022 remotely to develop and QA test a top-down shoot-em-up game.",
     "buttonText": "Learn more",

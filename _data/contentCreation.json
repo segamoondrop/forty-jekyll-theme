@@ -1,27 +1,30 @@
 [
   {
     "image": null,
-    "youtubeEmbed": "https://youtube.com/embed/2S0ixTDYG48",
+    "youtubeEmbed": "https://www.youtube.com/embed/2S0ixTDYG48",
+    "thumbnail": "/assets/images/thumb_shorts.jpg" ,
     "title": "Sonic Movie 3 Reaction Highlights",
     "caption": null,
     "buttonText": "Learn more",
-    "buttonLink": "https://youtube.com/shorts/2S0ixTDYG48"
+    "buttonLink": "https://www.youtube.com/shorts/2S0ixTDYG48"
   },
   {
     "image": null,
     "youtubeEmbed": "https://www.youtube.com/embed/Ul2j22t12os",
+    "thumbnail": "/assets/images/thumb_demoshowcase.jpg" ,
     "title": "500 Caliber Contractz - Demo Showcase",
     "caption": null,
     "buttonText": "Learn more",
-    "buttonLink": "https://youtu.be/Ul2j22t12os"
+    "buttonLink": "https://www.youtu.be/Ul2j22t12os"
   },
   {
     "image": null,
-    "youtubeEmbed": "https://youtube.com/embed/eGdHF_5q_q4",
+    "youtubeEmbed": "https://www.youtube.com/embed/eGdHF_5q_q4",
+    "thumbnail": "/assets/images/thumb_sage.jpg" ,
     "title": "SAGE 2022 Stream",
     "caption": null,
     "buttonText": "Learn more",
-    "buttonLink": "https://youtu.be/eGdHF_5q_q4"
+    "buttonLink": "https://www.youtu.be/eGdHF_5q_q4"
   },
   {
     "buttonText": "Back to Videos",

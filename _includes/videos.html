@@ -17,7 +17,14 @@
 				</header>
 				{% endif %}
 				{% if vid.youtubeEmbed %}
-        <iframe class="youtubeEmbed" src="{{vid.youtubeEmbed}}" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				<a 
+					style="text-decoration: none; border: none; display: flex; flex-direction:row; align-items: center; justify-content: center; margin:auto; background-image: url({{vid.thumbnail}});background-size: cover;background-position: center;max-width: 650px;aspect-ratio: 16/9;" 
+					data-fslightbox="qavideos" 
+					data-class="fslightbox-source" 
+					href="{{vid.youtubeEmbed}}" 
+					data-autoplay>
+					<i class="fa-solid fa-circle-play" style="position: absolute; font-size: 3em;text-shadow: 0px 0px 10px black;"></i>
+				</a>
 				{% endif %}
 				{% if vid.caption %}
 				<p>{{vid.caption}}</p>
@@ -38,7 +45,14 @@
 				</header>
 				{% endif %}
 				{% if vid.youtubeEmbed %}
-        <iframe class="youtubeEmbed" src="{{vid.youtubeEmbed}}" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				<a 
+				style="text-decoration: none; border: none; display: flex; flex-direction:row; align-items: center; justify-content: center; margin:auto; background-image: url({{vid.thumbnail}});background-size: cover; background-position: center; max-width: 650px;aspect-ratio: 16/9;" 
+				data-fslightbox="qavideos" 
+				data-class="fslightbox-source" 
+				href="{{vid.youtubeEmbed}}" 
+				data-autoplay>
+				<i class="fa-solid fa-circle-play" style="position: absolute; font-size: 3em;text-shadow: 0px 0px 10px black;"></i>
+				</a>
 				{% endif %}
 				{% if vid.caption %}
 				<p>{{vid.caption}}</p>

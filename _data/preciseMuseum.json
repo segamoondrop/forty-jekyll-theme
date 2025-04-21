@@ -2,6 +2,7 @@
   {
     "image": null,
     "youtubeEmbed": "https://www.youtube.com/embed/9MP37nz8HZA",
+    "thumbnail": "/assets/images/thumb_puyon.jpg" ,
     "title": "Puyo Puyo~n",
     "caption": "Credits: Video Editor, Graphic Editor, Proofreader, Playtester<br />With the Precise Museum, we created a fan-made translation patch of the Dreamcast game Puyo Puyo~n. From the in-game menus, to VMU animations, and even to custom implemented dialogue boxes for the games' story mode; we've made the game completely playable for English-speaking audiences!",
     "buttonText": "Learn more",
@@ -10,6 +11,7 @@
   {
     "image": null,
     "youtubeEmbed": "https://www.youtube.com/embed/V8U-QBZbjb4",
+    "thumbnail": "/assets/images/thumb_puyochronicles.jpg" ,
     "title": "Puyo Puyo Chronicle",
     "caption": "Credits: Video Editor, Graphic Editor, Proofreader, Playtester<br />",
     "buttonText": "Learn more",
@@ -18,6 +20,7 @@
   {
     "image": null,
     "youtubeEmbed": "https://www.youtube.com/embed/rojYTaHFFnY",
+    "thumbnail": "/assets/images/thumb_puyosong.jpg" ,
     "title": "Let's Head Out, On We Go! Puyo Puyo!!!",
     "caption": "Credits: Subtitler, Video Editor<br />A fan-made video translation of a song released for Super Puyo Puyo Quest.",
     "buttonText": "Learn more",
@@ -26,6 +29,7 @@
   {
     "image": null,
     "youtubeEmbed": "https://www.youtube.com/embed/SHosJ1QkqwM",
+    "thumbnail": "/assets/images/thumb_rumble.jpg" ,
     "title": "Extracurricular Lesson at Primp Magic School — Puyo Puyo Drama CD Vol 2. Track 1",
     "caption": "Credits: Subtitler, Video Editor<br />A fan-made video translation of a Puyo Puyo Drama CD featuring the cast of Puyo Puyo Fever.",
     "buttonText": "Learn more",
