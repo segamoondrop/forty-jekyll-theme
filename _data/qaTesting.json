@@ -1,5 +1,14 @@
 [
   {
+    "image": "/assets/images/Classics_Pattern.png",
+    "thumbnail": "/assets/images/Classics_Catalog_Widescreen_Large_Logo.png" ,
+    "youtubeEmbed": "https://youtu.be/5StHEUsIV3Q",
+    "title": "PlayStation Studios - Classics Catalog",
+    "caption": "Uncredited: Game Test Analyst<br />At Sony Interactive Entertainment, I conducted comprehensive testing on multiple classic PlayStation 1, 2, and Portable titles re-released with enhanced features for the PlayStation 4 and 5. Mainly focusing on identifying and documenting a variety of emulation bugs with from gameplay, performance, graphics, and animation bugs. Beyond just testing for this title, I also coordinated cross-functionally with QA, development, and production teams to perform submission authorizations for new title releases and post-launch patches.<br>Titles Worked On:<ul><li>Battle Engine Aquila</li><li>Deus Ex: The Conspiracy</li><li>Twisted Metal 3 & 4</li><li>Resident Evil 2</li><li>Resident Evil 3 Nemesis</li><li>Legacy of Kain: Defiance</li><li>Tekken 3</li><li>Tomb Raider: Anniversary</li><li>Soulcalibur 3</li><li>Ridge Racer</li></ul>",
+    "buttonText": "Learn more",
+    "buttonLink": "https://store.playstation.com/en-us/category/8056ad23-7f30-485c-a628-b99f9d5aec5d/"
+  },
+  {
     "image": "/assets/images/MLBTheShow251x1.jpg",
     "thumbnail": "/assets/images/thumb_theshow.jpg" ,
     "youtubeEmbed": "https://www.youtube.com/embed/DdbcF6TCAXM",
@@ -24,7 +33,7 @@
     "title": "Gizmos Gambit",
     "caption": "Credits: UI Design/QA Tester<br />Through the use of Trello for management, Discord for communication and GitHub for the latest builds, I worked with my group for Gamedev.tv's Game Jam 2022 remotely to develop and QA test a top-down shoot-em-up game.",
     "buttonText": "Learn more",
-    "buttonLink": "https://somedumbfox.itch.io/gizmos-gambit",
+    "buttonLink": "https://somedumbfox.com/game/gizmos-gambit",
     "inner": true
   },
   {
