@@ -8,4 +8,4 @@ end
 
 gem "webrick", "~> 1.8"
 
-gem "wdm", "~> 0.1.1"
+gem "wdm", "~> 0.2.0"
